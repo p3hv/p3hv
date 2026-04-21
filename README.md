@@ -5,4 +5,8 @@ def main(username1=None,username2=None):
         sys.stdout.write(f"Github:{username1}\nDiscord:{username2}")
 if __name__=="__main__":
     main("p3hv",".6_g")
-```
+
+┌──(SStorm㉿p3hv)-[~]
+└─$ python main.py
+Github:  p3hv
+Discord: .6_g
