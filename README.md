@@ -9,4 +9,4 @@ if __name__=="__main__":
 ┌──(SStorm㉿p3hv)-[~]
 └─$ python main.py
 Github:  p3hv
-Discord: .6_g
+Discord: p3hv
